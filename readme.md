@@ -2,7 +2,7 @@
 
 a quick and dirty tool to download manga chapters from mangadex.
 
-creates a quick .cbz archive of the downloaded contents as well.
+creates a .cbz archive of the downloaded contents as well.
 
 # usage
 
